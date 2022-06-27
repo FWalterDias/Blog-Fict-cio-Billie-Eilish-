@@ -1,0 +1,47 @@
+body {
+	background-image: url('imagens/fundo.png');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+	width: 900px;
+}
+
+#menu{
+	background-color: #D0C425;
+	padding: 20px;
+}
+
+#conteudo{
+	background-color: #E9E283;
+	padding: 10px;
+	text-align: justify;
+}
+
+
+#rodape{
+	text-align: center;
+}
+
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bolder;
+	padding: 17px;
+}
+
+.titulos {
+	color: #978F25;
+	font-size: 1.2em;
+}
+
+.albuns{
+	color: #29281C;
+}
+
+.billie {
+	font-size: 25px;
+	color: #3C3A22;
+	text-decoration: underline;
+	text-align: center;
+}
